@@ -1,0 +1,65 @@
+{
+    "BigMapAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499997,
+                "file_path": "results\\Bigmap2\\BigMapAgent\\BigMapAgent-3499997.onnx",
+                "reward": null,
+                "creation_time": 1712259834.4510694,
+                "auxillary_file_paths": [
+                    "results\\Bigmap2\\BigMapAgent\\BigMapAgent-3499997.pt"
+                ]
+            },
+            {
+                "steps": 3999971,
+                "file_path": "results\\Bigmap2\\BigMapAgent\\BigMapAgent-3999971.onnx",
+                "reward": null,
+                "creation_time": 1712260127.6402144,
+                "auxillary_file_paths": [
+                    "results\\Bigmap2\\BigMapAgent\\BigMapAgent-3999971.pt"
+                ]
+            },
+            {
+                "steps": 4499945,
+                "file_path": "results\\Bigmap2\\BigMapAgent\\BigMapAgent-4499945.onnx",
+                "reward": null,
+                "creation_time": 1712260421.7007475,
+                "auxillary_file_paths": [
+                    "results\\Bigmap2\\BigMapAgent\\BigMapAgent-4499945.pt"
+                ]
+            },
+            {
+                "steps": 4999983,
+                "file_path": "results\\Bigmap2\\BigMapAgent\\BigMapAgent-4999983.onnx",
+                "reward": null,
+                "creation_time": 1712260716.1580687,
+                "auxillary_file_paths": [
+                    "results\\Bigmap2\\BigMapAgent\\BigMapAgent-4999983.pt"
+                ]
+            },
+            {
+                "steps": 5003375,
+                "file_path": "results\\Bigmap2\\BigMapAgent\\BigMapAgent-5003375.onnx",
+                "reward": null,
+                "creation_time": 1712260716.4562,
+                "auxillary_file_paths": [
+                    "results\\Bigmap2\\BigMapAgent\\BigMapAgent-5003375.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5003375,
+            "file_path": "results\\Bigmap2\\BigMapAgent.onnx",
+            "reward": null,
+            "creation_time": 1712260716.4562,
+            "auxillary_file_paths": [
+                "results\\Bigmap2\\BigMapAgent\\BigMapAgent-5003375.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

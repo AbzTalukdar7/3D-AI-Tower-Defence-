@@ -1,0 +1,38 @@
+{
+    "BigMapAgent": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\BigMapRun1\\BigMapAgent\\BigMapAgent-499999.onnx",
+                "reward": null,
+                "creation_time": 1712256254.9352698,
+                "auxillary_file_paths": [
+                    "results\\BigMapRun1\\BigMapAgent\\BigMapAgent-499999.pt"
+                ]
+            },
+            {
+                "steps": 500511,
+                "file_path": "results\\BigMapRun1\\BigMapAgent\\BigMapAgent-500511.onnx",
+                "reward": null,
+                "creation_time": 1712256255.0220456,
+                "auxillary_file_paths": [
+                    "results\\BigMapRun1\\BigMapAgent\\BigMapAgent-500511.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500511,
+            "file_path": "results\\BigMapRun1\\BigMapAgent.onnx",
+            "reward": null,
+            "creation_time": 1712256255.0220456,
+            "auxillary_file_paths": [
+                "results\\BigMapRun1\\BigMapAgent\\BigMapAgent-500511.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

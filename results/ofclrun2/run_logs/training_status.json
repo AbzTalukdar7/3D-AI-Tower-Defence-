@@ -1,0 +1,56 @@
+{
+    "TestAgent1": {
+        "checkpoints": [
+            {
+                "steps": 499985,
+                "file_path": "results\\ofclrun2\\TestAgent1\\TestAgent1-499985.onnx",
+                "reward": null,
+                "creation_time": 1712192824.691749,
+                "auxillary_file_paths": [
+                    "results\\ofclrun2\\TestAgent1\\TestAgent1-499985.pt"
+                ]
+            },
+            {
+                "steps": 999969,
+                "file_path": "results\\ofclrun2\\TestAgent1\\TestAgent1-999969.onnx",
+                "reward": null,
+                "creation_time": 1712193069.0292804,
+                "auxillary_file_paths": [
+                    "results\\ofclrun2\\TestAgent1\\TestAgent1-999969.pt"
+                ]
+            },
+            {
+                "steps": 1499953,
+                "file_path": "results\\ofclrun2\\TestAgent1\\TestAgent1-1499953.onnx",
+                "reward": null,
+                "creation_time": 1712193317.9917493,
+                "auxillary_file_paths": [
+                    "results\\ofclrun2\\TestAgent1\\TestAgent1-1499953.pt"
+                ]
+            },
+            {
+                "steps": 1504625,
+                "file_path": "results\\ofclrun2\\TestAgent1\\TestAgent1-1504625.onnx",
+                "reward": null,
+                "creation_time": 1712193318.3677416,
+                "auxillary_file_paths": [
+                    "results\\ofclrun2\\TestAgent1\\TestAgent1-1504625.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1504625,
+            "file_path": "results\\ofclrun2\\TestAgent1.onnx",
+            "reward": null,
+            "creation_time": 1712193318.3677416,
+            "auxillary_file_paths": [
+                "results\\ofclrun2\\TestAgent1\\TestAgent1-1504625.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
